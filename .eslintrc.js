@@ -29,7 +29,7 @@ module.exports = {
     'react/prop-types': 'off',
     'jsx-a11y/anchor-is-valid': 'off',
     'react/jsx-props-no-spreading': ['error', { custom: 'ignore' }],
-    // 'prettier/prettier': 'error',
+    'react/require-default-props': 'off',
     'react/no-unescaped-entities': 'off',
     'import/no-cycle': [0, { ignoreExternal: true }],
     'prefer-const': 'off',
