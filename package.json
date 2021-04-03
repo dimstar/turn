@@ -5,7 +5,8 @@
     "dev": "next",
     "build": "next build",
     "start": "next start",
-    "check": "tsc  --noEmit"
+    "check": "tsc  --noEmit",
+    "lint": "eslint --ext .ts,.tsx ."
   },
   "dependencies": {
     "autoprefixer": "^10.2.4",
