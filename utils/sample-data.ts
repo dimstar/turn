@@ -1,9 +1,11 @@
-import { User } from '../interfaces'
+import { User } from '../types';
 
 /** Dummy user data. */
-export const sampleUserData: User[] = [
+const sampleUsersData: User[] = [
   { id: 101, name: 'Alice' },
   { id: 102, name: 'Bob' },
   { id: 103, name: 'Caroline' },
-  { id: 104, name: 'Dave' },
-]
+  { id: 104, name: 'Dave' }
+];
+
+export default sampleUsersData;
