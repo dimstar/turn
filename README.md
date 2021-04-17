@@ -1,4 +1,4 @@
-# A Nextjs, Typescript, TailwindCSS Example Project
+# A Nextjs, Typescript Example Project
 
 Start the development server.
 
@@ -28,4 +28,4 @@ Check types
 
 ## Thanks all to these projects!
 
-Bootstraped this project with [type-script example for Nextjs](https://github.com/vercel/next.js/tree/canary/examples/with-typescript). This project uses [NextJs](https://nextjs.org/) & [tailwindcss](https://tailwindcss.com/).
+Bootstraped this project with [type-script example for Nextjs](https://github.com/vercel/next.js/tree/canary/examples/with-typescript). This project uses [NextJs](https://nextjs.org/).
