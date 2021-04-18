@@ -1,9 +1,9 @@
 import React from 'react';
 import type { AppProps } from 'next/app'
-import "tailwindcss/tailwind.css";
+import GlobalStyle from '../components/GlobalStyle';
 
 function MyApp({ Component, pageProps }: AppProps): JSX.Element {
-  return <Component {...pageProps} />
+  return <><GlobalStyle /><Component {...pageProps} /></>
 }
 
 export default MyApp
